@@ -7,7 +7,7 @@
 
 ### Structure of each entry
 
-```
+```ts
 {
     name: string; 
     description: string;
