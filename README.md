@@ -16,7 +16,7 @@
         android: string; // google play link
         ios: string; // app store link
     },
-    flavor: 'angular' | 'vue' | 'react' | 'svelte' | 'javascript' | 'typescript';
+    flavor: 'angular' | 'vue' | 'react' | 'svelte' | 'capacitor' | 'javascript' | 'typescript';
 }
 ```
 
