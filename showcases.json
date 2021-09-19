@@ -260,6 +260,15 @@
       "links": {  
         "android": "https://play.google.com/store/apps/details?id=com.sanyang.easyhiragana"
       }
+    },
+    {
+      "name": "KTP Checker",
+      "description": "Checker (KTP) the Indonesian people's identity card number.",
+      "logo": "/assets/showcase-logos/ktpchecker.webp",
+      "links": {  
+        "android": "https://play.google.com/store/apps/details?id=com.kang.cahya.KtpChecker"
+      },
+      "flavor": "javascript"
     }
   ]
   
