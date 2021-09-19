@@ -1,0 +1,266 @@
+[
+    {
+      "name": "ActiveLook",
+      "description": "This application connects to Activelook smart glasses to display, live, and right in your field of vision, the key information you need to optimize your performances.",
+      "logo": "/assets/showcase-logos/activelook.webp",
+      "links": {
+        "android": "https://play.google.com/store/apps/details?id=com.microoled.activelook.mobile&hl=fr&gl=US",
+        "ios": "https://apps.apple.com/app/activelook-sport-glasses/id1464023773"
+      }
+    },
+    {
+      "name": "Science of Reading",
+      "description": "Nearly all children can learn to read. Far too many do not. Do flawed ideas about reading hold young people back?",
+      "logo": "/assets/showcase-logos/science-reading.webp",
+      "links": {
+        "ios": "https://apps.apple.com/us/app/science-of-reading/id1480512339"
+      }
+    },
+    {
+      "name": "Aura CO2",
+      "description": "Aura-CO2 monitors the air you breath and allows you to take the right decision to keep an healthy well ventilated environment.",
+      "logo": "/assets/showcase-logos/auraco2.webp",
+      "links": {
+        "android": "https://play.google.com/store/apps/details?id=com.elichens.auraco2",
+        "ios": "https://apps.apple.com/us/app/aura-co2/id1565190899"
+      }
+    },
+    {
+      "name": "Breethe - Meditation & Sleep App",
+      "description": "Breathe mindfulness, peace and restful sleep into your life.",
+      "logo": "/assets/showcase-logos/breethe.webp",
+      "links": {
+        "android": "https://play.google.com/store/apps/details?id=com.Meditation.app"
+      }
+    },
+    {
+      "name": "eLichens Air",
+      "description": "The app will give you current, past and forecast air quality everywhere and with an accurate street-level data, available in over 300 cities where the eLichens' hyper-local model is deployed.",
+      "logo": "/assets/showcase-logos/elichensair.webp",
+      "links": {
+        "android": "https://play.google.com/store/apps/details?id=com.elichens.outdoorapp",
+        "ios": "https://apps.apple.com/us/app/elichens-air/id1552617144"
+      }
+    },
+    {
+      "name": "eLsi Station",
+      "description": "eLsi monitors the air you breath and allows you to take the right decision to keep an healthy environment.",
+      "logo": "/assets/showcase-logos/elsistation.webp",
+      "links": {
+        "android": "https://play.google.com/store/apps/details?id=com.elichens.stationmobile",
+        "ios": "https://apps.apple.com/us/app/elsi-station/id1538561086"
+      }
+    },
+    {
+      "name": "OSS Weather",
+      "description": "Open Source app to access detailed weather data from OpenWeatherMap.",
+      "logo": "/assets/showcase-logos/ossweather.webp",
+      "links": {
+        "android": "https://play.google.com/store/apps/details?id=com.akylas.weather&hl=en_US&gl=US",
+        "ios": "https://apps.apple.com/us/app/ns-weather/id1499117252"
+      }
+    },
+    {
+      "name": "Grainfather Community",
+      "description": "An app for Home Brewers",
+      "logo": "/assets/showcase-logos/grainfathercommunity.webp",
+      "links": {
+        "android": "https://play.google.com/store/apps/details?id=za.co.digitlab.GFConnect",
+        "ios": "https://apps.apple.com/us/app/grainfather-connect/id1169264880?ls=1"
+      }
+    },
+    {
+      "name": "Daily Nanny",
+      "description": "Daily Nanny is the best way for parents and nannies to share photos, track hours and overtime, keep in touch, and track important data about their kids.",
+      "logo": "/assets/showcase-logos/dailynanny.webp",
+      "links": {
+        "android": "https://play.google.com/store/apps/details?id=com.cubbynotes.pocketnanny&hl=en_US&gl=US",
+        "ios": "https://apps.apple.com/us/app/daily-nanny/id1180728044"
+      }
+    },
+    {
+      "name": "MyPreSonus",
+      "description": "The MyPreSonus app is your connection to your PreSonus products, the PreSonus support community, and the entire PreSonus ecosystem.",
+      "logo": "/assets/showcase-logos/mypresonus.webp",
+      "links": {
+        "android": "https://play.google.com/store/apps/details?id=com.presonus.mypresonus&hl=en_US&gl=US",
+        "ios": "https://apps.apple.com/us/app/mypresonus/id1282534772"
+      }
+    },
+    {
+      "name": "FedGovSpend",
+      "description": "Curious how much federal spending goes toward the military, health care, or education? Want to understand what all those government programs you hear about do? If so, FedGovSpend™ Explorer is the app for you!",
+      "logo": "/assets/showcase-logos/fedgovspend.webp",
+      "links": {
+        "android": "https://play.google.com/store/apps/details?id=edu.unh.fedgovspend.explorer",
+        "ios": "https://apps.apple.com/us/app/fedgovspend-explorer/id1543742755"
+      }
+    },
+    {
+      "name": "Checkpoint Curly",
+      "description": "Scan your products and see if they are compatible with the curly method!",
+      "logo": "/assets/showcase-logos/checkpointcurly.webp",
+      "links": {
+        "android": "https://play.google.com/store/apps/details?id=com.vallemar.checkpointcurly",
+        "ios": "https://apps.apple.com/us/app/checkpoint-curly/id1549378423#?platform=iphone"
+      }
+    },
+    {
+      "name": "FanFiktion.de",
+      "description": "Your mobile access to FanFiktion.de, the large German-language portal for fanfiction and free works. Browse more than half a million stories about fanfiction, poetry and prose. Publish your own works to a large number of readers and exchange views with like-minded people.",
+      "logo": "/assets/showcase-logos/fanfiktion.webp",
+      "links": {
+        "android": "https://play.google.com/store/apps/details?id=net.fanfiktion.mobile",
+        "ios": "https://apps.apple.com/de/app/fanfiktion-de/id820349064"
+      }
+    },
+    {
+      "name": "Dresden App",
+      "description": "Discover Dresden as a visitor or resident. Find sights, museums, restaurants, theaters, cinemas and more: the official Dresden app offers a wealth of information and offers around Dresden.",
+      "logo": "/assets/showcase-logos/dresden.webp",
+      "links": {
+        "android": "https://play.google.com/store/apps/details?id=dig.dresden.apps",
+        "ios": "https://apps.apple.com/de/app/offizielle-dresden-app/id1065000438"
+      }
+    },
+    {
+      "name": "My-Nutri-Diary",
+      "description": "The premium nutrition diary. 100% free of charge. Learn to understand your metabolism and achieve your fitness and health goals.",
+      "logo": "/assets/showcase-logos/mynutridiary.webp",
+      "links": {
+        "ios": "https://apps.apple.com/de/app/my-nutri-diary/id1490340361#?platform=iphone"
+      }
+    },
+    {
+      "name": "Debeka Mitarbeiter Foto-App",
+      "description": "Debeka photo app designed exclusively for the employees of Debeka and can be used only in combination with the Debeka-acquisition system.",
+      "logo": "/assets/showcase-logos/debekamitarbeiter.webp",
+      "links": {
+        "android": "https://play.google.com/store/apps/details?id=de.debeka.fotoapp"
+      }
+    },
+    {
+      "name": "Debeka Auslands-SOS",
+      "description": "\"SOS: Help abroad\" - the Debeka app for your smartphone. This is your personal emergency contact for our 24-hour emergency service.",
+      "logo": "/assets/showcase-logos/debekaauslands.webp",
+      "links": {
+        "android": "https://play.google.com/store/apps/details?id=de.debeka.mobile",
+        "ios": "https://apps.apple.com/de/app/debeka-auslands-sos/id537548994"
+      }
+    },
+    {
+      "name": "Onyx - Stay Updated, Earn and Make new friends",
+      "description": "Onyx is a multi social media platform that allow users to discover and engage other and share thoughts with other users.",
+      "logo": "/assets/showcase-logos/onyx.webp",
+      "links": {
+        "android": "https://play.google.com/store/apps/details?id=io.kronos.android"
+      }
+    },
+    {
+      "name": "Sweet - Digital Collectibles",
+      "description": "Sweet is your one-stop shop for collecting, owning, and trading unique Digital Collectibles from your favorite brands and artists.",
+      "logo": "/assets/showcase-logos/sweet.webp",
+      "links": {  
+        "ios": "https://apps.apple.com/us/app/sweet-digital-collectibles/id1452120535"
+      }
+    },
+    {
+      "name": "Chess Clock",
+      "description": "Clock to practice and play chess with time",
+      "logo": "/assets/showcase-logos/onyx.webp",
+      "links": {
+        "android": "https://play.google.com/store/apps/details?id=com.suchorski.apps.chessclock"
+      }
+    },
+    {
+      "name": "Puggum - React to the moment",
+      "description": "Share pictures & videos, Positive reactions, Expressive polls, Autoscroll, Chats. To win the contest, guess the right reaction. Tiebreaker is the user with the most points.",
+      "logo": "/assets/showcase-logos/puggum.webp",
+      "links": {  
+        "ios": "https://apps.apple.com/us/app/puggum/id1580302204"
+      }
+    },
+    {
+      "name": "Yape",
+      "description": "Yape es un app con el que puedes hacer transferencias con tan solo el número de celular de tus contactos o escaneando su código QR. Ahora también puedes solicitar tu efectivo y retirarlo en la red de Agentes BCP.",
+      "logo": "/assets/showcase-logos/yape.webp",
+      "links": {  
+        "android": "https://play.google.com/store/apps/details?id=com.bcp.innovacxion.yapeapp"
+      }
+    },
+    {
+      "name": "Pídelo Ya!",
+      "description": "Pidelo Ya! es un app de delivery para la ciudad de Rioja.",
+      "logo": "/assets/showcase-logos/pidelo-ya.webp",
+      "links": {  
+        "android": "https://play.google.com/store/apps/details?id=com.bytpher.pideloya"
+      }
+    },
+    {
+      "name": "Jotto",
+      "description": "Jotto is designed to facilitate the sharing of user-generated video content between individuals and the organizations they trust.",
+      "logo": "/assets/showcase-logos/jotto.webp",
+      "links": {  
+        "android": "https://play.google.com/store/apps/details?id=us.quadrant2.jotto"
+      }
+    },
+    {
+      "name": "Prompt^",
+      "description": "It takes time to send out reminders. Prompt^ gives you a link for inviting your friends, family, or fans, and lets you set up a message that you can quickly send later.",
+      "logo": "/assets/showcase-logos/prompt.webp",
+      "links": {  
+        "android": "https://play.google.com/store/apps/details?id=us.quadrant2.prompt"
+      }
+    },
+    {
+      "name": "Never Have I Ever Online",
+      "description": "If you can't meet up with your friends to go party, play with them online or play with strangers.",
+      "logo": "/assets/showcase-logos/never-have-i-ever.webp",
+      "links": {  
+        "android": "https://play.google.com/store/apps/details?id=ge.any.NeverHaveIEver"
+      }
+    },
+    {
+      "name": "Georgian Air Quality",
+      "description": "Get realtime information about Air Quality in Georgia.",
+      "logo": "/assets/showcase-logos/georgian-air-quality.webp",
+      "links": {  
+        "android": "https://play.google.com/store/apps/details?id=ge.any.georgianairquality",
+        "ios": "https://apps.apple.com/us/app/georgian-air-quality/id1554751727"
+      }
+    },
+    {
+      "name": "სამედიცინო ლექსიკონი",
+      "description": "'სამედიცინო ლექსიკონი' საშუალებით შეგიძლიათ მოიძიოთ სამედიცინო სიტყვები სხვადასხვა ენაზე: ქართულად, ინგლისურად, რუსულად და ლათინურად.",
+      "logo": "/assets/showcase-logos/medical-dictionary.webp",
+      "links": {  
+        "android": "https://play.google.com/store/apps/details?id=ge.any.MedicalDictionary"
+      }
+    },
+    {
+      "name": "GlobeOne: Data & Promos",
+      "description": "GlobeOne is your go-to digital companion for everything Globe - making you do more with your accounts and all within reach!",
+      "logo": "/assets/showcase-logos/globalone.webp",
+      "links": {  
+        "ios": "https://apps.apple.com/ph/app/globeone-data-promos/id1459216958"
+      }
+    },
+    {
+      "name": "Badabee - Organizza le tue uscite tra amici",
+      "description": "Badabee è la prima community Italiana di food influencer, un’app che ti consentirà di invitare gli amici a casa tua o di organizzare delle uscite con loro nei locali della tua città 🌃",
+      "logo": "/assets/showcase-logos/badabee.webp",
+      "links": {  
+        "android": "https://play.google.com/store/apps/details?id=it.ifexe.badabee"
+      }
+    },
+    {
+      "name": "Easy Hiragana",
+      "description": "Easy Hiragana will help you to learn Hiragana easily.",
+      "logo": "/assets/showcase-logos/hiragana.webp",
+      "links": {  
+        "android": "https://play.google.com/store/apps/details?id=com.sanyang.easyhiragana"
+      }
+    }
+  ]
+  
+  
