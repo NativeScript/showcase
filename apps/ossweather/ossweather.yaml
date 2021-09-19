@@ -1,0 +1,5 @@
+name: OSS Weather
+description: Open Source app to access detailed weather data from OpenWeatherMap.
+links:
+  android: https://play.google.com/store/apps/details?id=com.akylas.weather&hl=en_US&gl=US
+  ios: https://apps.apple.com/us/app/ns-weather/id1499117252

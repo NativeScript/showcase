@@ -1,0 +1,15 @@
+{
+	"Showcase YAML schema": {
+		"scope": "yaml",
+		"prefix": "yaml",
+		"body": [
+			"name: $1",
+			"description: $2",
+			"links:",
+			"  android: $3",
+			"  ios: $4",
+			"flavor: $5",
+			""
+		]
+	}
+}

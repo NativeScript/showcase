@@ -1,0 +1,18 @@
+{
+  "name": "nativescript-showcase",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "clean": "rimraf node_modules .eleventy/dist",
+    "dev": "eleventy --serve --quiet --watch",
+    "build": "cross-env NODE_ENV=production eleventy",
+    "watch:eleventy": "npx @11ty/eleventy --serve"
+  },
+  "devDependencies": {
+    "@11ty/eleventy": "1.0.0-canary.44",
+    "@11ty/eleventy-img": "^0.10.0",
+    "cross-env": "~7.0.3",
+    "js-yaml": "^4.1.0",
+    "rimraf": "~3.0.2"
+  }
+}
