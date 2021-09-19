@@ -1,0 +1,6 @@
+name: ActiveLook
+description: This application connects to Activelook smart glasses to display, live, and right in your field of vision, the key information you need to optimize your performances.
+links:
+  android: https://play.google.com/store/apps/details?id=com.microoled.activelook.mobile
+  ios: https://apps.apple.com/app/activelook-sport-glasses/id1464023773
+flavor: vue
