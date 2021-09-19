@@ -1,8 +1,8 @@
 ## Submit your app to https://nativescript.org/showcase
 
 1. Fork this repo
-2. Create a new file (and folder): `<appname>/<appname>.yaml`
-3. Add your app logo to `<appname>/<appname>.webp`
+2. Create a new file (and folder): `apps/<appname>/<appname>.yaml`
+3. Add your app logo to `apps/<appname>/<appname>.webp`
 4. Submit a pull request with your changes
 
 ### Structure of each entry
@@ -29,4 +29,4 @@ Drag/drop your app's logo from Google Play is the easiest as it will drop a prop
 
 If using an app icon from the Apple App Store, you can inspect the DOM to reveal the background image (also a `.webp` file) which can be saved in the folder.
 
-> **Note**: the drag & drop method only works on retina screens, on non-retina screens you can use Chrome Devtools responsive view to set the Device Pixel-Ratio (DPR) to 2.0 or above and refresh the page. Now the icon should be a `.webp` image you can drag and drop into the `<appname>/` folder, then manually rename it to `<appname>.webp`.
+> **Note**: the drag & drop method only works on retina screens, on non-retina screens you can use Chrome Devtools responsive view to set the Device Pixel-Ratio (DPR) to 2.0 or above and refresh the page. Now the icon should be a `.webp` image you can drag and drop into the `apps/<appname>/` folder, then manually rename it to `<appname>.webp`.
