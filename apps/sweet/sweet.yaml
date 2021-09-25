@@ -2,3 +2,4 @@ name: Sweet - Digital Collectibles
 description: Sweet is your one-stop shop for collecting, owning, and trading unique Digital Collectibles from your favorite brands and artists.
 links:
   ios: https://apps.apple.com/us/app/sweet-digital-collectibles/id1452120535
+flavor: angular

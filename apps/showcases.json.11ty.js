@@ -25,7 +25,7 @@ class Showcases {
 			return {
 				name: appData.name,
 				description: appData.description,
-				logo: hasLogo ? '/showcase-logos/' + logoFilename : undefined,
+				logo: hasLogo ? '/assets/showcase-logos/' + logoFilename : undefined,
 				links: {
 					android: appData.links.android,
 					ios: appData.links.ios,

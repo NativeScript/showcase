@@ -3,3 +3,4 @@ description: The MyPreSonus app is your connection to your PreSonus products, th
 links:
   android: https://play.google.com/store/apps/details?id=com.presonus.mypresonus
   ios: https://apps.apple.com/us/app/mypresonus/id1282534772
+flavor: angular
