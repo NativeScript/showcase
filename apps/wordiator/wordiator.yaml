@@ -1,0 +1,6 @@
+name: Wordiator
+description: Turn numbers into words! Find out if a phone number, or any type of number really, can be typed as words on a phone's keypad (sometimes called phonewords).
+links:
+  android: https://play.google.com/store/apps/details?id=com.digitaluproot.wordiator
+  ios: https://apps.apple.com/us/app/wordiator/id1539078004#?platform=iphone
+flavor: angular
