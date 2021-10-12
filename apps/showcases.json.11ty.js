@@ -22,14 +22,22 @@ class Showcases {
 				console.warn(`\n\n${yellow}WARN: App "${appData.name}" located in ${entry.inputPath} has no associated logo (${logoPath} does not exist)\n\n`)
 			}
 
+			const links = {};
+			if (appData.links.android) {
+				links.android = appData.links.android;
+			}
+			if (appData.links.ios) {
+				links.ios = appData.links.ios;
+			}
+			if (appData.links.repo) {
+				links.repo = appData.links.repo;
+			}
+
 			return {
 				name: appData.name,
 				description: appData.description,
 				logo: hasLogo ? '/assets/showcase-logos/' + logoFilename : undefined,
-				links: {
-					android: appData.links.android,
-					ios: appData.links.ios,
-				},
+				links: links,
 				flavor: appData.flavor,
 			}
 		})
