@@ -1,0 +1,6 @@
+name: NticeMe
+description: NticeMe is the most enticing dating app out there. Singles are now endangered species. Here's an app that helps you create meaningful connections with new people and find love.
+links:
+  android: https://play.google.com/store/apps/details?id=app.nticeme
+  ios: https://apps.apple.com/us/app/nticeme/id1552240206
+flavor: angular
