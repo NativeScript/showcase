@@ -1,0 +1,8 @@
+name: Simple Check
+description: Simple Check is the easiest and most affordable checklist app, built by facility services experts, to help you monitor compliance, reduce risk, and share results.
+links:
+  android: https://play.google.com/store/apps/details?id=com.cms.simplecheck
+  ios: https://apps.apple.com/us/app/simple-check-app/id1542613005
+flavor: vue
+
+
