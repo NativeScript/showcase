@@ -1,0 +1,8 @@
+name: Smart Inspect
+description: Smart Inspect is the quality inspection app powering the world’s best cleaning and maintenance programs, since 2002.
+links:
+  android: https://play.google.com/store/apps/details?id=com.coremanagementservices.SmartInspect1
+  ios: https://itunes.apple.com/us/app/smart-inspect/id467423068?mt=8
+flavor: vue
+
+
