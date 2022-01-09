@@ -1,0 +1,6 @@
+name: Roni
+description: Roni is a multiplayer word game where you can challenge friends and random opponents, or embark on a single player quest to complete the Roni puzzle adventure. Find and create words by placing your letters on the 9 by 9 tile board and get the most points within the three minute time limit!
+links:
+  android: https://play.google.com/store/apps/details?id=com.ronigame.roni
+  ios: https://itunes.apple.com/app/id598592294
+flavor: vue
