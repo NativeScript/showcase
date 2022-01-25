@@ -2,3 +2,4 @@ name: Never Have I Ever Online
 description: If you can't meet up with your friends to go party, play with them online or play with strangers.
 links:
   android: https://play.google.com/store/apps/details?id=ge.any.NeverHaveIEver
+flavor: vue

@@ -1,4 +1,5 @@
-name: სამედიცინო ლექსიკონი
+name: Medical Dictionary
 description: "'სამედიცინო ლექსიკონი' საშუალებით შეგიძლიათ მოიძიოთ სამედიცინო სიტყვები სხვადასხვა ენაზე: ქართულად, ინგლისურად, რუსულად და ლათინურად."
 links:
   android: https://play.google.com/store/apps/details?id=ge.any.MedicalDictionary
+flavor: vue

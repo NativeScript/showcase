@@ -1,0 +1,7 @@
+name: Space Webb Tracker
+description: "With James Webb Tracker app you can track it's mission steps in live with nice and responsive design."
+links:
+  android: https://play.google.com/store/apps/details?id=ge.any.jwstt
+  ios: https://apps.apple.com/us/app/james-webb-tracker/id1603876992
+  repo: https://github.com/kakha13/James-Webb-Space-Telescope-Tracker
+flavor: vue
