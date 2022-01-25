@@ -3,3 +3,4 @@ description: Get realtime information about Air Quality in Georgia.
 links:
   android: https://play.google.com/store/apps/details?id=ge.any.georgianairquality
   ios: https://apps.apple.com/us/app/georgian-air-quality/id1554751727
+flavor: vue
