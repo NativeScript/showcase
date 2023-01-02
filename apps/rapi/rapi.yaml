@@ -3,4 +3,4 @@ description: This is the freelancer app of the rapi freelancing platform, curren
 links:
   android: https://play.google.com/store/apps/details?id=works.rapi.rapifreelancerapp
   ios: https://apps.apple.com/nl/app/rapi/id1617188948
-flavor: vue | typescript
+flavor: vue
