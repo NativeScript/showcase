@@ -1,0 +1,7 @@
+name:          TNS News
+description:   A daily news mobile app for 50+ countries.
+links:
+  android:     https://play.google.com/store/apps/details?id=com.iamabs.news
+  ios:         
+  repo:        
+flavor:        angular
