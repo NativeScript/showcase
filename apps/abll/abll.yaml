@@ -1,0 +1,6 @@
+name: ABLL - Autos Bahía La Línea
+description: Application for the management of private transportation service for companies.
+links:
+  android: https://play.google.com/store/apps/details?id=com.abll.app
+  ios: https://apps.apple.com/es/app/abll-autos-bah%C3%ADa-la-l%C3%ADnea/id6446379863?platform=iphone
+flavor: vue
