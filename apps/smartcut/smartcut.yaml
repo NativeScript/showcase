@@ -1,0 +1,6 @@
+name: SmartCut - CutList Optimizer
+description: Calculate the most efficient cut layouts for sheet & linear material. Be more productive and save money.
+links:
+  android: https://play.google.com/store/apps/details?id=dev.smartcut.app
+  ios: https://apps.apple.com/us/app/cutlist-optimizer/id1579298749
+flavor: vue

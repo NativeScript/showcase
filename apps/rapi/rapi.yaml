@@ -1,0 +1,6 @@
+name: Rapi
+description: This is the freelancer app of the rapi freelancing platform, currently active in the Netherlands. Where you can find jobs in the retail, hospitality, markting and catering industry.
+links:
+  android: https://play.google.com/store/apps/details?id=works.rapi.rapifreelancerapp
+  ios: https://apps.apple.com/nl/app/rapi/id1617188948
+flavor: vue
