@@ -1,0 +1,6 @@
+name: Laris Kursi 
+description: Effortlessly convert currencies with Laris Kursi - the reliable app for accurate currency conversions. Download now and simplify your financial transactions!
+links:
+  android: https://play.google.com/store/apps/details?id=ge.any.currency
+  ios: https://apps.apple.com/us/app/laris-kursi/id6450497779
+flavor: vue

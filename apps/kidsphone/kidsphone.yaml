@@ -1,0 +1,6 @@
+name: KidsPhone Games
+description: Learning Game with text and audio. Animal, Objects, Numbers and Alphabets
+links:
+  android: https://play.google.com/store/apps/details?id=ge.any.kidsphone
+  ios: https://apps.apple.com/us/app/kidsphone-games/id6464454235
+flavor: vue

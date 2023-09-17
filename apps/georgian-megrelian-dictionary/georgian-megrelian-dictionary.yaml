@@ -1,0 +1,6 @@
+name: Georgian Megrelian Dictionary
+description: Mingrelian language, also called Megrelian, unwritten Kartvelian (South Caucasian) language spoken along the coast of the Black Sea in Georgia.
+links:
+  android: https://play.google.com/store/apps/details?id=ge.any.qartulmegrulileqsikoni
+  ios: https://apps.apple.com/us/app/georgian-megrelian-dictionary/id1565204617
+flavor: vue

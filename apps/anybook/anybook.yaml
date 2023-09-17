@@ -1,0 +1,6 @@
+name: Any Book - Georgian Books
+description: Discover a new way to read Georgian books with our user-friendly app! Access a vast collection of e-books, customize your reading experience, and read offline.
+links:
+  android: https://play.google.com/store/apps/details?id=ge.any.book
+  ios: https://apps.apple.com/us/app/any-book-georgian-books/id6446055319
+flavor: vue
