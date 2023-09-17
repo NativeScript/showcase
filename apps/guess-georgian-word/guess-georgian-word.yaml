@@ -1,0 +1,6 @@
+name: Guess Georgian Word
+description: "Play Georgian daily word game. Guess the word, get score. Every day, a new word is given to guess. Test yourself every day and share you score to your friends."
+links:
+  android: https://play.google.com/store/apps/details?id=ge.any.jwstt
+  ios: https://apps.apple.com/app/guess-georgian-word/id1608790468
+flavor: vue
