@@ -1,0 +1,6 @@
+name: Game of Splash!
+description: Game of Splash! is a simple, yet addictive game where the goal is to clear all drops from a board to get to the next level. 
+links:
+  android: https://play.google.com/store/apps/details?id=no.appera.splash
+  ios: https://apps.apple.com/us/app/game-of-splash/id6499012484
+flavor: vue
