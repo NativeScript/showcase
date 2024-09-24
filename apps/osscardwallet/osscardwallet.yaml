@@ -1,0 +1,6 @@
+name: OSS Card Wallet
+description: Open Source app to scan and store all your cards.
+links:
+  android: https://play.google.com/store/apps/details?id=com.akylas.cardwallet&hl=en-US
+  ios: https://apps.apple.com/us/app/oss-cardwallet/id6504414362
+  repo: https://github.com/Akylas/OSS-DocumentScanner

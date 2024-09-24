@@ -1,0 +1,6 @@
+name: AlpiMaps
+description: Open Source outdoor companion app.
+links:
+  android: https://play.google.com/store/apps/details?id=akylas.alpi.maps&hl=en-US
+  repo: https://github.com/Akylas/alpimaps/
+flavor: svelte
