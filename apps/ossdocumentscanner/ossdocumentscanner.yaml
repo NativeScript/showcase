@@ -1,0 +1,6 @@
+name: OSS Document Scanner
+description: Open Source app to scan documents and export them as PDF / Images
+links:
+  android: https://play.google.com/store/apps/details?id=com.akylas.documentscanner&hl=en-US
+  ios: https://apps.apple.com/us/app/oss-document-scanner/id6472918564
+  repo: https://github.com/Akylas/OSS-DocumentScanner
