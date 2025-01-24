@@ -1,0 +1,6 @@
+name: Launchpoint
+description: Bringing Big Technology to Businesses
+links:
+  android: https://play.google.com/store/apps/details?id=dev.launchpoint.mobileapp&pli=1
+  ios: https://apps.apple.com/us/app/launchpoint-dev/id6737575056
+flavor: typescript
