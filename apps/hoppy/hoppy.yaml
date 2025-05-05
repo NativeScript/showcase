@@ -1,0 +1,6 @@
+name: Hoppy
+description: Snap a pic of a beer menu (or an entire cooler of beer at a store) and Hoppy will provide you the crowd-sourced ratings from Untappd for each beer it identifies!
+links:
+  android: https://play.google.com/store/apps/details?id=org.nativescript.hoppy
+  ios: https://apps.apple.com/us/app/hoppy-ai-powered-beer-guide/id1406526158
+flavor: typescript
