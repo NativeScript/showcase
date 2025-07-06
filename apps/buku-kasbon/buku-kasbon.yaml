@@ -1,0 +1,5 @@
+name: Buku Kasbon – Debt Recorder
+description: Buku Kasbon is a cash advance recording app designed specifically to help MSMEs, stalls, grocery stores, and other small businesses easily and efficiently record customer credit or cash advance transactions.
+links:
+  android: https://play.google.com/store/apps/details?id=com.kang.cahya.apps.bukukasbon
+flavor: javascript
