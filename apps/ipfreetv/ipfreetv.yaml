@@ -1,0 +1,5 @@
+name: IPFreeTV          # Name of the app
+description: IP TV app with 300+ Indian TV channels   # short description of the app
+links:
+  repo: https://github.com/AbhijitDeyDev/ipfreetv       # link to source code if publicly available
+flavor: typescript        # angular | vue | react | svelte | capacitor | javascript | typescript
