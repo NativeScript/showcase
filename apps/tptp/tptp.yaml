@@ -1,0 +1,6 @@
+name: tptp
+description: The private travel planner. Plan trips and flights, share expenses and manage to-dos in one app. Built with NativeScript-Vue, made and hosted in Switzerland.
+links:
+  android: https://play.google.com/store/apps/details?id=ch.tanase.tptp
+  ios: https://apps.apple.com/app/id1533581172
+flavor: vue
